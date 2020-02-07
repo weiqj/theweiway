@@ -2,7 +2,7 @@
 title: "从数据中挖掘真相"
 comments: true
 categories:
-  - 社会, 政治, 数据
+  - 社会, 政治
 tags:
   - 枪支
   - 统计
@@ -19,4 +19,4 @@ tags:
 这种死亡恐惧，让我迅速联想到另一种死亡原因，枪支暴力。美国每年因枪支暴力死亡人数是直线上升的。现在每年稳定在30000人以上。可以说，死亡人数，多于流感！
 
 ![Gun Death](/assets/images/gun_death.png)
-By RCraig09 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72121545
+By RCraig09 - Own work, CC BY-SA 4.0, [https://commons.wikimedia.org/w/index.php?curid=72121545](https://commons.wikimedia.org/w/index.php?curid=72121545)
