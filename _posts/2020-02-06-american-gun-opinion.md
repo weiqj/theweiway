@@ -1,12 +1,22 @@
 ---
-title: "Liberty IoT App is Anti-Visual Programming"
+title: "从数据中挖掘真相"
 comments: true
 categories:
-  - Social, Politics
+  - 社会, 政治, 数据
 tags:
-  - Liberty App
-  - Development
-  - GUI Programming
+  - 枪支
+  - 统计
+  - 数据
+  - 民调
 ---
 
-This is a test
+# 从数据中挖掘真相
+### 探索美国民众对于枪支的真正态度
+
+起因，要从肺炎说起，当肺炎死亡人数几十人的时候，美国流感季节死亡6000人的帖子在微信疯传。有人问我是不是真的？当然是真的！美国每年流感可以感染4000万人，每年因流感死亡估计是1.2万到6.1万人。
+
+即使如此，人民不会过分恐惧流感，但是会极端恐惧非典肺炎。这是正确的，而且100%符合逻辑。这个不是本文的主题。
+这种死亡恐惧，让我迅速联想到另一种死亡原因，枪支暴力。美国每年因枪支暴力死亡人数是直线上升的。现在每年稳定在30000人以上。可以说，死亡人数，多于流感！
+
+![Gun Death](assets/images/gun_death.png)
+By RCraig09 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72121545
